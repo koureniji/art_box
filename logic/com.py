@@ -13,7 +13,7 @@ class Com:
     def __init__(self, prompt, pic_path):
         self.que = prompt
         self.pic_path = pic_path
-        self.url = "sozialfotografie.de"
+        self.url = "labs.openai.com"
         # open_ai_API-Key
         self.key = "xx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
